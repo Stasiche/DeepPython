@@ -3,3 +3,5 @@ Easy: utils.fib -- вычисление первых n числел Фиббон
 Medium: Построен граф
 
 Hard: красивое дерево
+
+https://test.pypi.org/project/stasiche-hw2/0.0.6/

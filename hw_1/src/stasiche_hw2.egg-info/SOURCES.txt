@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/stasiche_hw2/__init__.py
+src/stasiche_hw2/ast_parser.py
+src/stasiche_hw2/main.py
+src/stasiche_hw2/utils.py
+src/stasiche_hw2.egg-info/PKG-INFO
+src/stasiche_hw2.egg-info/SOURCES.txt
+src/stasiche_hw2.egg-info/dependency_links.txt
+src/stasiche_hw2.egg-info/top_level.txt
